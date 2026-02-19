@@ -1,0 +1,50 @@
+[
+    {
+        "settingCategory": "company_settings",
+        "settingKey": "company_name",
+        "settingValue": "COMPANY Name",
+        "valueType": "string"
+    },
+    {
+        "settingCategory": "company_settings",
+        "settingKey": "company_address",
+        "settingValue": "25 , Your Company Address",
+        "valueType": "string"
+    },
+    {
+        "settingCategory": "company_settings",
+        "settingKey": "company_city",
+        "settingValue": "Indore",
+        "valueType": "string"
+    },
+    {
+        "settingCategory": "company_settings",
+        "settingKey": "company_state",
+        "settingValue": "Madhya Pradesh",
+        "valueType": "string"
+    },
+    {
+        "settingCategory": "company_settings",
+        "settingKey": "company_country",
+        "settingValue": "India",
+        "valueType": "string"
+    },
+    {
+        "settingCategory": "company_settings",
+        "settingKey": "company_email",
+        "settingValue": "youremail@example.com",
+        "valueType": "string"
+    },
+    {
+        "settingCategory": "company_settings",
+        "settingKey": "company_phone",
+        "settingValue": "+1 345234654",
+        "valueType": "string"
+    },
+    {
+        "settingCategory": "company_settings",
+        "settingKey": "company_website",
+        "settingValue": "www.example.com",
+        "valueType": "string"
+    }
+]
