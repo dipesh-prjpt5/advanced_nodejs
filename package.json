@@ -5,9 +5,9 @@
   "license": "ISC",
   "author": "",
   "type": "commonjs",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "dev": "node --watch ./src/index.js",
+    "dev": "node --watch ./src/server.js",
     "setup" : "node ./src/setup/setup.js"
   },
   "dependencies": {
